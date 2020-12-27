@@ -1,0 +1,16 @@
+{
+    "name": "shohan/ooplr",
+    "description": "OOP Login Registration",
+    "authors": [
+        {
+            "name": "Shohanur Rahman",
+            "email": "shohanur.rahman57@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "public"
+        }
+    },
+    "require": {}
+}
